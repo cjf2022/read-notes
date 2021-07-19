@@ -22,3 +22,6 @@ The successful man will profit from his mistakes and try again in a different wa
 
 -This PC is a Dell
 
+If you want to embed images, this is how you do it:
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
