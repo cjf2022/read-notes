@@ -1,5 +1,8 @@
 # read-notes
 102 1st 
+## Table Of Contents
+1 Class one - growth mindset
+2 Class two
 
 growth mindset is a state of mind that lets you change and go with the flow of how things are moving being open to new ideas and aves for you.
 
