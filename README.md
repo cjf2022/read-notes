@@ -17,5 +17,8 @@ The successful man will profit from his mistakes and try again in a different wa
 
 
 -Have a lot of Dells
+
 -Have art made from a Dell
+
 -This PC is a Dell
+
